@@ -1,5 +1,5 @@
 <template>
-  <Github />
+  <GithubRank />
 </template>
 
 <script lang="ts">
